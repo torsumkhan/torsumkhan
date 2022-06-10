@@ -1,5 +1,6 @@
 ### Hello there, I'm Torsum 👋 👨‍💻
 
+![](https://github.com/torsumkhan/torsumkhan/blob/main/Simple%20Technology%20LinkedIn%20Banner.png?raw=true)
 
 
 <!--
