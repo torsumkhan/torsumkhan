@@ -6,6 +6,6 @@ I'm a passionate software developer from Toronto, Canada. Some technologies I en
 
 - 🌱 I’m currently learning React
 - 📫 How to reach me: torsum.khan@gmail.com
-- 🔗 Portfolio: [](https://torsum-portfolio.vercel.app/)
+- 🔗 Portfolio: [Personal portfolio](https://torsum-portfolio.vercel.app/)
 - 💼 Sharing updates on:  [LinkedIn](https://www.linkedin.com/in/torsum-khan-pmp-402aa167/)
 - 💕 Passion for : ☕ && 👨‍💻
